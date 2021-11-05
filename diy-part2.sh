@@ -13,4 +13,4 @@
 # Modify default IP
 sed -i 's/192.168.1.1/192.168.199.1/g' package/base-files/files/bin/config_generate
 
-git clone https://gitlab.com/_jason/openwrt-rtl8812bu-package.git package/kernel/rtl88x2bu
+# git clone https://gitlab.com/_jason/openwrt-rtl8812bu-package.git package/kernel/rtl88x2bu
